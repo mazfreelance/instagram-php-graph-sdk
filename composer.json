@@ -1,5 +1,5 @@
 {
-    "name": "maztech/php-instagram-graph-sdk",
+    "name": "mazfreelance/instagram-php-graph-sdk",
     "description": "Instagram SDK for PHP",
     "keywords": ["Instagram Basic Display API SDK", "Instagram SDK", "Instagram Graph API SDK", "SDK"],
     "type": "library",
