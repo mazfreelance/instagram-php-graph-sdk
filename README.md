@@ -1,5 +1,12 @@
 # Instagram SDK for PHP
 
+[![Latest Version](https://img.shields.io/github/v/tag/mazfreelance/instagram-php-graph-sdk.svg?label=release&sort=semver&style=flat-square)](https://github.com/mazfreelance/instagram-php-graph-sdk/releases/tag)
+[![Software License](https://img.shields.io/badge/license-BSD-brightgreen.svg?style=flat-square)](https://github.com/mazfreelance/instagram-php-graph-sdk/blob/main/LICENSE)
+[![Build Status](https://app.travis-ci.com/mazfreelance/instagram-php-graph-sdk.svg?branch=main)](https://app.travis-ci.com/mazfreelance/instagram-php-graph-sdk)
+[![Total Downloads](https://img.shields.io/packagist/dt/maztech/php-instagram-graph-sdk.svg?style=flat-square)](https://packagist.org/packages/maztech/php-instagram-graph-sdk)
+[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/mazfreelance/instagram-php-graph-sdk.svg?style=flat-square)](https://scrutinizer-ci.com/g/mazfreelance/instagram-php-graph-sdk/code-structure)
+[![Quality Score](https://img.shields.io/scrutinizer/g/mazfreelance/instagram-php-graph-sdk.svg?style=flat-square)](https://scrutinizer-ci.com/g/mazfreelance/instagram-php-graph-sdk)
+
 This repository contains the open source PHP SDK that allows you to access the Facebook Platform from your PHP app.
 
 Disclamer: This SDK using Instagram Graph API and encourage to use "Instagram Basic Display API".
