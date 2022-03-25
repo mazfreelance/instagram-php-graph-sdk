@@ -28,5 +28,6 @@
             "src/Instagram"
         ],
         "files": ["src/Facebook/polyfills.php"]
-    }
+    },
+    "prefer-stable": true
 }
