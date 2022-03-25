@@ -55,5 +55,5 @@ try {
 This SDK was referred at Facebook Developer site [here](https://developers.facebook.com/docs/instagram-basic-display-api/guides)
 
 ## Copyright & License
-PHP SDK for Instagram Graph API is Copyright (c) 2022 Mohd Azmin if not otherwise stated. The code is distributed under the terms of the MIT License. For the full license text see the LICENSE file.
+PHP SDK for Instagram Graph API is Copyright (c) 2022 Mohd Azmin if not otherwise stated. The code is distributed under the terms of the [MIT License](https://github.com/mazfreelance/instagram-php-graph-sdk/blob/main/LICENSE).
 
