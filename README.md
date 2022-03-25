@@ -56,3 +56,4 @@ This SDK was referred at Facebook Developer site [here](https://developers.faceb
 
 ## Copyright & License
 PHP SDK for Instagram Graph API is Copyright (c) 2022 Mohd Azmin if not otherwise stated. The code is distributed under the terms of the MIT License. For the full license text see the LICENSE file.
+
