@@ -1,0 +1,32 @@
+{
+    "name": "maztech/php-instagram-graph-sdk",
+    "description": "Instagram SDK for PHP",
+    "keywords": ["Instagram Basic Display API SDK", "Instagram SDK", "Instagram Graph API SDK", "SDK"],
+    "type": "library",
+    "homepage": "https://github.com/mazfreelance/instagram-php-graph-sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maz",
+            "email": "me@mohdazmin.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0",
+        "mockery/mockery": "~0.8",
+        "guzzlehttp/guzzle": "~5.0"
+    },
+    "suggest": {
+        "paragonie/random_compat": "Provides a better CSPRNG option in PHP 5",
+        "guzzlehttp/guzzle": "Allows for implementation of the Guzzle HTTP client"
+    },
+    "autoload": {
+        "classmap": [
+            "src/Instagram"
+        ],
+        "files": ["src/Facebook/polyfills.php"]
+    }
+}
