@@ -7,7 +7,7 @@ namespace Maztech;
  *
  * @package Instagram
  */
-class User {
+class InstagramUser {
 
     /**
      * The user id value.
