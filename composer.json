@@ -27,7 +27,7 @@
         "classmap": [
             "src/Instagram"
         ],
-        "files": ["src/Facebook/polyfills.php"]
+        "files": ["src/Instagram/polyfills.php"]
     },
     "prefer-stable": true,
     "minimum-stability": "dev"
