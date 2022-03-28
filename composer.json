@@ -28,7 +28,5 @@
             "src/Instagram"
         ],
         "files": ["src/Instagram/polyfills.php"]
-    },
-    "prefer-stable": true,
-    "minimum-stability": "dev"
+    }
 }
