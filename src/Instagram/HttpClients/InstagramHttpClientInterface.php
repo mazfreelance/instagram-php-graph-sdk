@@ -1,6 +1,6 @@
 <?php
 
-namespace Instagram\HttpClients;
+namespace Maztech\HttpClients;
 
 /**
  * Interface InstagramHttpClientInterface

@@ -1,6 +1,6 @@
 <?php
 
-namespace Instagram\PersistentData;
+namespace Maztech\PersistentData;
 
 use InvalidArgumentException;
 

@@ -1,17 +1,17 @@
 <?php
 
-namespace Instagram\Helpers;
+namespace Maztech\Helpers;
 
-use Instagram\Authentication\AccessToken;
-use Instagram\Authentication\OAuth2Client;
-use Instagram\Exceptions\InstagramSDKException;
-use Instagram\PersistentData\InstagramSessionPersistentDataHandler;
-use Instagram\PersistentData\PersistentDataInterface;
-use Instagram\PseudoRandomString\PseudoRandomStringGeneratorFactory;
-use Instagram\PseudoRandomString\PseudoRandomStringGeneratorInterface;
-use Instagram\Url\InstagramUrlDetectionHandler;
-use Instagram\Url\InstagramUrlManipulator;
-use Instagram\Url\UrlDetectionInterface;
+use Maztech\Authentication\AccessToken;
+use Maztech\Authentication\OAuth2Client;
+use Maztech\Exceptions\InstagramSDKException;
+use Maztech\PersistentData\InstagramSessionPersistentDataHandler;
+use Maztech\PersistentData\PersistentDataInterface;
+use Maztech\PseudoRandomString\PseudoRandomStringGeneratorFactory;
+use Maztech\PseudoRandomString\PseudoRandomStringGeneratorInterface;
+use Maztech\Url\InstagramUrlDetectionHandler;
+use Maztech\Url\InstagramUrlManipulator;
+use Maztech\Url\UrlDetectionInterface;
 
 /**
  * Class InstagramRedirectLoginHelper

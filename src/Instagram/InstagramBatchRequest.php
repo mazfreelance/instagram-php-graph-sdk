@@ -1,12 +1,12 @@
 <?php
 
-namespace Instagram;
+namespace Maztech;
 
 use ArrayIterator;
 use IteratorAggregate;
 use ArrayAccess;
-use Instagram\Authentication\AccessToken;
-use Instagram\Exceptions\InstagramSDKException;
+use Maztech\Authentication\AccessToken;
+use Maztech\Exceptions\InstagramSDKException;
 
 /**
  * Class BatchRequest

@@ -1,9 +1,9 @@
 <?php
 
-namespace Instagram;
+namespace Maztech;
 
-use Instagram\Authentication\AccessToken;
-// use Instagram\Exceptions\InstagramSDKException;
+use Maztech\Authentication\AccessToken;
+// use Maztech\Exceptions\InstagramSDKException;
 
 class InstagramApp implements \Serializable
 {

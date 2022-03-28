@@ -1,11 +1,11 @@
 <?php
 
-namespace Instagram;
+namespace Maztech;
 
-use Instagram\HttpClients\InstagramCurlHttpClient;
-use Instagram\HttpClients\InstagramHttpClientInterface;
-use Instagram\HttpClients\InstagramStreamHttpClient;
-use Instagram\Exceptions\InstagramSDKException;
+use Maztech\HttpClients\InstagramCurlHttpClient;
+use Maztech\HttpClients\InstagramHttpClientInterface;
+use Maztech\HttpClients\InstagramStreamHttpClient;
+use Maztech\Exceptions\InstagramSDKException;
 
 /**
  * Class InstagramClient

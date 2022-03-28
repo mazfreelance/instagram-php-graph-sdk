@@ -1,10 +1,10 @@
 <?php
 
-namespace Instagram\GraphNodes;
+namespace Maztech\GraphNodes;
 
-use Instagram\InstagramRequest;
-use Instagram\Url\InstagramUrlManipulator;
-use Instagram\Exceptions\InstagramSDKException;
+use Maztech\InstagramRequest;
+use Maztech\Url\InstagramUrlManipulator;
+use Maztech\Exceptions\InstagramSDKException;
 
 /**
  * Class GraphEdge

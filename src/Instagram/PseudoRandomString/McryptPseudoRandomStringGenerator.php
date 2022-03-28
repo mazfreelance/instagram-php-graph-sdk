@@ -1,8 +1,8 @@
 <?php
 
-namespace Instagram\PseudoRandomString;
+namespace Maztech\PseudoRandomString;
 
-use Instagram\Exceptions\InstagramSDKException;
+use Maztech\Exceptions\InstagramSDKException;
 
 class McryptPseudoRandomStringGenerator implements PseudoRandomStringGeneratorInterface
 {

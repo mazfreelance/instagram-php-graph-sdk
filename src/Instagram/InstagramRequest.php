@@ -1,11 +1,11 @@
 <?php
 
-namespace Instagram;
+namespace Maztech;
 
-use Instagram\Authentication\AccessToken;
-use Instagram\Url\InstagramUrlManipulator;
-use Instagram\Http\RequestBodyUrlEncoded;
-use Instagram\Exceptions\InstagramSDKException;
+use Maztech\Authentication\AccessToken;
+use Maztech\Url\InstagramUrlManipulator;
+use Maztech\Http\RequestBodyUrlEncoded;
+use Maztech\Exceptions\InstagramSDKException;
 
 /**
  * Class Request

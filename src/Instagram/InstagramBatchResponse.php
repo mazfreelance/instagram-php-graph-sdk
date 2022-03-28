@@ -1,6 +1,6 @@
 <?php
 
-namespace Instagram;
+namespace Maztech;
 
 use ArrayIterator;
 use IteratorAggregate;

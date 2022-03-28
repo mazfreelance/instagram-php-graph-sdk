@@ -1,6 +1,6 @@
 <?php
 
-namespace Instagram\HttpClients;
+namespace Maztech\HttpClients;
 
 use GuzzleHttp\Client;
 use InvalidArgumentException;

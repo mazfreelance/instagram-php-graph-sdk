@@ -22,7 +22,7 @@ require_once __DIR__ . '/polyfills.php';
  */
 spl_autoload_register(function ($class) {
     // project-specific namespace prefix
-    $prefix = 'Instagram\\';
+    $prefix = 'Maztech\\';
 
     // For backwards compatibility
     // base directory for the namespace prefix

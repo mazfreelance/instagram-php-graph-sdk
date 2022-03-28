@@ -1,6 +1,6 @@
 <?php
 
-namespace Instagram\Exceptions;
+namespace Maztech\Exceptions;
 
 /**
  * Class InstagramAuthenticationException

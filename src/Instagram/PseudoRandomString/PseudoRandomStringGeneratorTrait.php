@@ -1,6 +1,6 @@
 <?php
 
-namespace Instagram\PseudoRandomString;
+namespace Maztech\PseudoRandomString;
 
 trait PseudoRandomStringGeneratorTrait
 {

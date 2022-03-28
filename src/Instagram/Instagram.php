@@ -21,18 +21,18 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Instagram;
+namespace Maztech;
 
-use Instagram\Authentication\AccessToken;
-use Instagram\Authentication\OAuth2Client;
-use Instagram\Exceptions\InstagramSDKException;
-use Instagram\GraphNodes\GraphEdge;
-use Instagram\Helpers\InstagramRedirectLoginHelper;
-use Instagram\HttpClients\HttpClientsFactory;
-use Instagram\PersistentData\PersistentDataFactory;
-use Instagram\PseudoRandomString\PseudoRandomStringGeneratorFactory;
-use Instagram\Url\InstagramUrlDetectionHandler;
-use Instagram\Url\UrlDetectionInterface;
+use Maztech\Authentication\AccessToken;
+use Maztech\Authentication\OAuth2Client;
+use Maztech\Exceptions\InstagramSDKException;
+use Maztech\GraphNodes\GraphEdge;
+use Maztech\Helpers\InstagramRedirectLoginHelper;
+use Maztech\HttpClients\HttpClientsFactory;
+use Maztech\PersistentData\PersistentDataFactory;
+use Maztech\PseudoRandomString\PseudoRandomStringGeneratorFactory;
+use Maztech\Url\InstagramUrlDetectionHandler;
+use Maztech\Url\UrlDetectionInterface;
 
 /**
  * Class Instagram

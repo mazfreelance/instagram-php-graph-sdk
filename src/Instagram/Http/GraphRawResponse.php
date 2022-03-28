@@ -1,6 +1,6 @@
 <?php
 
-namespace Instagram\Http;
+namespace Maztech\Http;
 
 /**
  * Class GraphRawResponse

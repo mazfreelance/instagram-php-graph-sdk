@@ -1,6 +1,6 @@
 <?php
 
-namespace Instagram\GraphNodes;
+namespace Maztech\GraphNodes;
 
 /**
  * Class Collection

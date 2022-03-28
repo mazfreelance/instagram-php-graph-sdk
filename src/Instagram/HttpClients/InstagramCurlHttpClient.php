@@ -1,9 +1,9 @@
 <?php
 
-namespace Instagram\HttpClients;
+namespace Maztech\HttpClients;
 
-use Instagram\Http\GraphRawResponse;
-use Instagram\Exceptions\InstagramSDKException;
+use Maztech\Http\GraphRawResponse;
+use Maztech\Exceptions\InstagramSDKException;
 
 /**
  * Class InstagramCurlHttpClient

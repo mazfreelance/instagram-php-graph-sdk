@@ -1,9 +1,9 @@
 <?php
 
-namespace Instagram\GraphNodes;
+namespace Maztech\GraphNodes;
 
-use Instagram\InstagramResponse;
-use Instagram\Exceptions\InstagramSDKException;
+use Maztech\InstagramResponse;
+use Maztech\Exceptions\InstagramSDKException;
 
 /**
  * Class GraphNodeFactory

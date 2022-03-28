@@ -1,6 +1,6 @@
 <?php
 
-namespace Instagram\Url;
+namespace Maztech\Url;
 
 /**
  * Interface UrlDetectionInterface

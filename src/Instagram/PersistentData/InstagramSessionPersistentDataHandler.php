@@ -1,8 +1,8 @@
 <?php
 
-namespace Instagram\PersistentData;
+namespace Maztech\PersistentData;
 
-use Instagram\Exceptions\InstagramSDKException;
+use Maztech\Exceptions\InstagramSDKException;
 
 /**
  * Class InstagramSessionPersistentDataHandler

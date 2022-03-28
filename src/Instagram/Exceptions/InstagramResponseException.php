@@ -1,8 +1,8 @@
 <?php
 
-namespace Instagram\Exceptions;
+namespace Maztech\Exceptions;
 
-use Instagram\InstagramResponse;
+use Maztech\InstagramResponse;
 
 /**
  * Class InstagramResponseException

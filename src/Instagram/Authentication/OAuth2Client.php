@@ -1,13 +1,13 @@
 <?php
 
-namespace Instagram\Authentication;
+namespace Maztech\Authentication;
 
-use Instagram\InstagramApp;
-use Instagram\InstagramRequest;
-use Instagram\InstagramResponse;
-use Instagram\InstagramClient;
-use Instagram\Exceptions\InstagramResponseException;
-use Instagram\Exceptions\InstagramSDKException;
+use Maztech\InstagramApp;
+use Maztech\InstagramRequest;
+use Maztech\InstagramResponse;
+use Maztech\InstagramClient;
+use Maztech\Exceptions\InstagramResponseException;
+use Maztech\Exceptions\InstagramSDKException;
 
 /**
  * Class OAuth2Client

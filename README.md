@@ -29,7 +29,7 @@ $ composer require maztech/php-instagram-graph-sdk
 <?php
 require_once __DIR__ . '/vendor/autoload.php'; // change path as needed
 
-$ig = new \Instagram\Instagram([
+$ig = new \Maztech\Instagram([
   'app_id' => '{app-id}',
   'app_secret' => '{app-secret}'
 ]);

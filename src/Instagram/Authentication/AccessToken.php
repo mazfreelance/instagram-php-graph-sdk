@@ -21,7 +21,7 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Instagram\Authentication;
+namespace Maztech\Authentication;
 
 /**
  * Class AccessToken
