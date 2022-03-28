@@ -20,7 +20,7 @@ Disclamer: This SDK using Instagram Graph API and encourage to use "Instagram Ba
 ## Installation
 The preferred installation method is via composer. You can add the library as a dependency via:
 ```sh
-$ composer require maztech/php-instagram-graph-sdk
+$ composer require maztech/instagram-php-graph-sdk
 ```
 
 ## Usage
